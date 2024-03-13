@@ -1,2 +1,1 @@
-# VideoApp
-Web app to analyse videos
+# The Feedback Loop: Elevate Your Videos
